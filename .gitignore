@@ -1,0 +1,11 @@
+hodor-fe/.DS_Store
+hodor-fe/dist/electron/*
+hodor-fe/dist/web/*
+hodor-fe/build/*
+!hodor-fe/build/icons
+hodor-fe/coverage
+hodor-fe/node_modules/
+hodor-fe/npm-debug.log
+hodor-fe/npm-debug.log.*
+hodor-fe/thumbs.db
+!hodor-fe/.gitkeep
